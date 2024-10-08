@@ -1,6 +1,6 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE: 24-09-2024                                                                          
+### DATE:                                                                          
 ### REGISTER NUMBER : 212222040139
 
 ### AIM:  
@@ -98,129 +98,25 @@ def iterate():
 iterate() 
 ```
 
-
-
-
-
 ### Output:
+## 1) DO..WHILE
+![373507730-34231620-cd07-41b7-a4e8-d16aaacc2da4](https://github.com/user-attachments/assets/17cfa1d1-35a3-46f6-9bfb-12a50d06d577)
 
-### i.)do…while: 
-```
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
+![373507993-e240d6e6-727b-4746-8fde-3599c0f29222](https://github.com/user-attachments/assets/e2769327-1475-438e-9845-ae866163654b)
 
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
+## 2)WHILE..DO:
+![373508161-41d03de3-7b7f-4507-aced-e80d3e8b8512](https://github.com/user-attachments/assets/56d81d7a-564b-4b83-8973-d72abd6cbeed)
 
-Character and string input
-Enter a positive value for START: hello
-Enter a positive value for END: y
-Enter a valid positive number. 
+![373508191-0cfea109-c051-48ef-9e66-d1dba335563d](https://github.com/user-attachments/assets/0d4e7a71-03aa-4ded-8dd0-9b86b21a64cd)
 
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-```
+## 3)SWITCH:
+![373508242-70f0baa4-9272-43d1-86a3-02dd02d94895](https://github.com/user-attachments/assets/f70f255e-5b11-4ea5-bc91-15b8aa4d47c2)
 
+## 4) IF-ELSE:
+![373508355-73450c00-1bee-4b2a-a672-9b23499bc616](https://github.com/user-attachments/assets/2f50b3ff-07e7-480e-b36c-339b3c24603a)
 
-### ii.) while…do 
-```
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
+## 5) FOR:
+![373508438-939ad955-780c-44b5-b986-a55eb968dcd6](https://github.com/user-attachments/assets/798536c9-6f25-4908-8812-ea2725b1458c)
 
-
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-
-Character and string input
-Enter a positive value for START: abc
-Enter a positive value for END: 100
-Enter a valid positive number. 
-
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-
-
-```
-
-
-### iii.) switch 
-```
-Positive numbers
-Enter a value for N: 1
-odd
-
-Negative numbers
-Enter a value for N: -10
-even
-
-
-Character and string input
-Enter a value for N: hello
-Enter a valid number.
-
-
-Null input
-Enter a value for N:
-Enter a valid number. 
-
-```
-
-### iv.) if else
-```
-
-Positive numbers
-Enter a value for A: 1
-Enter a value for B: 1
-A is equal to B.
-
-
-Negative numbers
-Enter a value for A: -10
-Enter a value for B: 5 B
-is greater than A.
-
-
-Character and string input
-Enter a value for A: hello
-Enter a value for B: y
-Enter a valid number.
-
-
-Null input
-Enter a value for A:
-Enter a value for B:
-Enter a valid number. 
-```
-
-
-### v.) for 
-```
-Characters
-Enter a string: say
-115 97 121
-
-Number
-Enter a string: 1543
-49 53 52 51
-
-Null input
-Enter a string: 
-```
-
-
-### Result:
+## Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
